@@ -1,0 +1,15 @@
+﻿  text_analyzer.cpp
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(18,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(68,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(105,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(111,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(112,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(120,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(125,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(132,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(133,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(179,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(187,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(195,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Ингресс\source\repos\Translator\Translator\text_analyzer.cpp(201,42): warning C4018: <: несоответствие типов со знаком и без знака
+  Translator.vcxproj -> C:\Users\Ингресс\source\repos\Translator\Debug\Translator.exe
